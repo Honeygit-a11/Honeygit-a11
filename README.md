@@ -25,7 +25,7 @@ const Honeychoudhary = {
     name     : "Honey Choudhary",
     username : "Honeygit-a11",
     role     : "Full Stack MERN Developer",
-    company  : "Intern @ Kaspro Solutions Pvt Ltd 🏢",
+    company  : "Backend developer @dupleit solutions 🏢",
     location : "Mohali, Chandigarh, India 🇮🇳",
     email    : "hk9484678@gmail.com",
     pronouns : "he/him",
