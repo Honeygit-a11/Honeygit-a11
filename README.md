@@ -21,7 +21,16 @@ Building scalable web applications, modern dashboards, APIs, and pixel-perfect U
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Frontend+Developer;Backend+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Creating+Scalable+Dashboard+Systems"/>
 
 </div>
+<div align="center">
+  <a href="https://github.com/karan36k">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan36k&layout=compact&langs_count=7&theme=dark"/>
 
+   
+  ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+
+  
+  </a></div>
+ 
 ---
 
 # 🚀 About Me
@@ -84,3 +93,10 @@ const honeyKumar = {
 
     funFact: "I transform complex ideas into modern web experiences 🚀"
 };
+
+
+
+
+
+
+
